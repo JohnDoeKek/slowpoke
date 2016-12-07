@@ -7,6 +7,8 @@ now reading SICP page 38.
 
 next will be Кнут Д. - Искусство программирования 
 
+https://www.codecademy.com/courses/
+
 next:
 
 Лутц М. - Изучаем Python (4-е издание)
