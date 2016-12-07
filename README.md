@@ -25,6 +25,9 @@ ierra K., Bates B. - Head First Java, 2nd Edition
 Хорстманн Кей, Корнелл Гари - Java 2. Библиотека профессионала. 7-е издание.
 
 
+some js too - http://learn.javascript.ru/
+
+
 
 Dave Thomas with with Chad Fowler and Andy Hunt - Programming Ruby 1.9 and 2.0 4th edition
 
