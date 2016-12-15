@@ -3,9 +3,6 @@ just wanna to know what is this, and how to use it.
 
 k. gonna learn python, ruby, java and english for life.
 
-now reading SICP page 38.
-
-next will be Кнут Д. - Искусство программирования 
 
 https://www.codecademy.com/courses/
 
@@ -36,6 +33,11 @@ Dave Thomas with with Chad Fowler and Andy Hunt - Programming Ruby 1.9 and 2.0 4
 Paolo Perrotta - Metaprogramming Ruby 2
 
 Carlson L., Richardson L. - Ruby Cookbook - 2nd Edition
+
+
+SICP
+
+ Кнут Д. - Искусство программирования 
 
 
 let the gods of north helps me.
